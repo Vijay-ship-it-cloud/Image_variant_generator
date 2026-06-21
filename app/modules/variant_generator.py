@@ -67,6 +67,7 @@ BRAND_PALETTES: dict[str, tuple[int, int, int]] = {
     "crimson_red": (192, 41, 66),
     "slate_gray": (90, 99, 110),
     "golden_yellow": (212, 160, 23),
+    "deep_teal": (20, 130, 120),
 }
 
 
