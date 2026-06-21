@@ -1,5 +1,6 @@
 # Automated Image Variant Generator
 
+> Built as a hands-on project to learn FastAPI, computer vision (DINOv2), and the full Git/GitHub workflow.
 Upload a "master" marketing/product image and automatically generate
 on-brand variants — different aspect ratios, brand-palette colour tints,
 and background swaps — filtered for visual consistency using
